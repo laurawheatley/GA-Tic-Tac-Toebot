@@ -1,13 +1,6 @@
  
 import java.text.DecimalFormat;
 
-
-/**
- * Write a description of class Animate here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class PrintBoards1
 
 {
