@@ -3,6 +3,8 @@ import java.text.DecimalFormat;
 
 public class PrintBoards1
 
+//authors: Laura Wheatley, Nikki Kitner
+
 {
     static UniqueBoards boards = new UniqueBoards();
     static int allBoards[] = boards.allGenes();
