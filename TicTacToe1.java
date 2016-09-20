@@ -2,11 +2,9 @@
 import java.text.DecimalFormat;
 import java.io.*;
 import java.util.*;
-/**
- * TicTacToe main class
- * @author (your name)
- * @version (a version number or a date)
- */
+
+ // @author Laura Wheatley, Nikki Kitner
+ 
 public class  TicTacToe1
 {
 
