@@ -4,9 +4,9 @@ import java.text.DecimalFormat;
 /**
  * PossibleBoards determines the amount and sequence of every possible unique board, while taking symmetry into account
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Laura Wheatley, Nikki Kitner
  */
+ 
 public class UniqueBoards
 {
 
