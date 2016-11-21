@@ -1,7 +1,7 @@
  
 import java.text.DecimalFormat;
 
-public class PrintBoards1
+public class PrintBoards
 
 //authors: Laura Wheatley, Nikki Kitner
 
